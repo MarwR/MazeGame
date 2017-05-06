@@ -26,7 +26,7 @@ namespace MazeGame
 
         private void Finish_MouseEnter(object sender, EventArgs e)
         {
-            MessageBox.Show("You won darling");
+            MessageBox.Show("You won pretty");
             Close();
         }
 
